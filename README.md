@@ -55,6 +55,28 @@ https://colab.research.google.com/drive/17IV6gzZ1izyPFKbK-neRhFpF839coNUj?usp=sh
 
 ---
 
+## 📚 Example Input
+
+ sample_document = """
+    PROPERTY APPRAISAL REPORT
+
+    Property Address: 456 Oak Avenue, Rivertown, USA  
+    Property Type: Townhouse  
+    Square Footage: 1,750 sq ft  
+    Year Built: 2008  
+    Number of Bedrooms: 2  
+    Number of Bathrooms: 2  
+    Lot Size: 3,200 sq ft  
+    Estimated Value: $295,000
+
+    Property Condition Notes:
+    - HVAC system recently replaced
+    - Cracked tiles in kitchen floor
+    - Slight settling cracks in foundation
+    - Modern kitchen and updated appliances"""
+
+---
+
 ## 📚 Example Output
 
 ```json
