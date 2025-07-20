@@ -57,7 +57,7 @@ https://colab.research.google.com/drive/17IV6gzZ1izyPFKbK-neRhFpF839coNUj?usp=sh
 
 ## 📚 Example Input
 
- sample_document = """
+ sample_document = 
     PROPERTY APPRAISAL REPORT
 
     Property Address: 456 Oak Avenue, Rivertown, USA  
@@ -73,7 +73,7 @@ https://colab.research.google.com/drive/17IV6gzZ1izyPFKbK-neRhFpF839coNUj?usp=sh
     - HVAC system recently replaced
     - Cracked tiles in kitchen floor
     - Slight settling cracks in foundation
-    - Modern kitchen and updated appliances"""
+    - Modern kitchen and updated appliances
 
 ---
 
