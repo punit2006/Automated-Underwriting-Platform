@@ -51,7 +51,7 @@ Welcome to the Property Appraisal Report Generator, an AI-driven backend solutio
 
 ## 🌐 Google Colab
 
-https://colab.research.google.com/drive/17IV6gzZ1izyPFKbK-neRhFpF839coNUj?usp=sharing
+https://colab.research.google.com/drive/1H5ag5EyblIK-5qP7vhRSCZlRl664r6gb?usp=sharing
 
 ---
 
